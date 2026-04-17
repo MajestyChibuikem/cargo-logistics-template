@@ -1,0 +1,344 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "AstroFlow" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - generic [ref=e11]: AstroFlow
+      - generic [ref=e12]:
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - link "Capabilities" [ref=e14] [cursor=pointer]:
+          - /url: /capabilities
+        - link "Use Cases" [ref=e15] [cursor=pointer]:
+          - /url: /use-cases
+        - link "Facilities" [ref=e16] [cursor=pointer]:
+          - /url: /facilities
+        - link "Track Package" [ref=e17] [cursor=pointer]:
+          - /url: /tracking
+        - link "Request Quote" [ref=e18] [cursor=pointer]:
+          - /url: /rfq
+        - link "Documentation" [ref=e19] [cursor=pointer]:
+          - /url: /documentation
+      - generic [ref=e20]:
+        - link "Request Quote" [ref=e21] [cursor=pointer]:
+          - /url: /rfq
+        - link "Login" [ref=e23] [cursor=pointer]:
+          - /url: /login
+          - img [ref=e24]
+          - text: Login
+  - main [ref=e27]:
+    - generic [ref=e28]:
+      - img "Modern logistics and manufacturing capabilities" [ref=e30]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - img [ref=e35]
+          - text: Comprehensive Solutions
+        - heading "Our Capabilities" [level=1] [ref=e37]
+        - paragraph [ref=e38]: Comprehensive logistics and manufacturing solutions designed to optimize your operations and drive sustainable growth.
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - img [ref=e46]
+          - heading "Warehousing & Storage" [level=2] [ref=e48]
+          - paragraph [ref=e49]: State-of-the-art warehousing facilities equipped with advanced inventory management systems, climate control, and 24/7 security.
+          - list [ref=e50]:
+            - listitem [ref=e51]:
+              - img [ref=e52]
+              - generic [ref=e54]: Climate-controlled storage
+            - listitem [ref=e55]:
+              - img [ref=e56]
+              - generic [ref=e58]: Automated inventory tracking
+            - listitem [ref=e59]:
+              - img [ref=e60]
+              - generic [ref=e62]: Cross-docking capabilities
+            - listitem [ref=e63]:
+              - img [ref=e64]
+              - generic [ref=e66]: Hazmat certified facilities
+            - listitem [ref=e67]:
+              - img [ref=e68]
+              - generic [ref=e70]: Real-time stock visibility
+        - generic [ref=e75]:
+          - img "Warehousing & Storage" [ref=e76]
+          - generic [ref=e78]:
+            - heading "Warehousing & Storage" [level=3] [ref=e79]
+            - paragraph [ref=e80]: State-of-the-art warehousing facilities equipped with advanced inventory management systems, climate control, and 24/7 security.
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - img [ref=e85]
+          - heading "Manufacturing Services" [level=2] [ref=e87]
+          - paragraph [ref=e88]: ISO 9001 certified manufacturing with precision engineering, quality control, and flexible production capabilities.
+          - list [ref=e89]:
+            - listitem [ref=e90]:
+              - img [ref=e91]
+              - generic [ref=e93]: CNC machining & fabrication
+            - listitem [ref=e94]:
+              - img [ref=e95]
+              - generic [ref=e97]: Assembly & kitting
+            - listitem [ref=e98]:
+              - img [ref=e99]
+              - generic [ref=e101]: Quality inspection
+            - listitem [ref=e102]:
+              - img [ref=e103]
+              - generic [ref=e105]: Prototype development
+            - listitem [ref=e106]:
+              - img [ref=e107]
+              - generic [ref=e109]: Custom tooling & fixtures
+        - generic [ref=e114]:
+          - img "Manufacturing Services" [ref=e115]
+          - generic [ref=e117]:
+            - heading "Manufacturing Services" [level=3] [ref=e118]
+            - paragraph [ref=e119]: ISO 9001 certified manufacturing with precision engineering, quality control, and flexible production capabilities.
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - img [ref=e124]
+          - heading "Transportation & Distribution" [level=2] [ref=e126]
+          - paragraph [ref=e127]: Comprehensive multi-modal transportation network ensuring efficient, reliable delivery across all regions.
+          - list [ref=e128]:
+            - listitem [ref=e129]:
+              - img [ref=e130]
+              - generic [ref=e132]: Ground transportation (LTL/FTL)
+            - listitem [ref=e133]:
+              - img [ref=e134]
+              - generic [ref=e136]: Air freight services
+            - listitem [ref=e137]:
+              - img [ref=e138]
+              - generic [ref=e140]: Ocean freight
+            - listitem [ref=e141]:
+              - img [ref=e142]
+              - generic [ref=e144]: Last-mile delivery
+            - listitem [ref=e145]:
+              - img [ref=e146]
+              - generic [ref=e148]: Route optimization
+        - generic [ref=e153]:
+          - img "Transportation & Distribution" [ref=e154]
+          - generic [ref=e156]:
+            - heading "Transportation & Distribution" [level=3] [ref=e157]
+            - paragraph [ref=e158]: Comprehensive multi-modal transportation network ensuring efficient, reliable delivery across all regions.
+      - generic [ref=e159]:
+        - generic [ref=e160]:
+          - img [ref=e163]
+          - heading "Supply Chain Management" [level=2] [ref=e165]
+          - paragraph [ref=e166]: End-to-end supply chain solutions with advanced analytics, forecasting, and optimization capabilities.
+          - list [ref=e167]:
+            - listitem [ref=e168]:
+              - img [ref=e169]
+              - generic [ref=e171]: Demand forecasting
+            - listitem [ref=e172]:
+              - img [ref=e173]
+              - generic [ref=e175]: Inventory optimization
+            - listitem [ref=e176]:
+              - img [ref=e177]
+              - generic [ref=e179]: Network design
+            - listitem [ref=e180]:
+              - img [ref=e181]
+              - generic [ref=e183]: Risk management
+            - listitem [ref=e184]:
+              - img [ref=e185]
+              - generic [ref=e187]: Performance analytics
+        - generic [ref=e192]:
+          - img "Supply Chain Management" [ref=e193]
+          - generic [ref=e195]:
+            - heading "Supply Chain Management" [level=3] [ref=e196]
+            - paragraph [ref=e197]: End-to-end supply chain solutions with advanced analytics, forecasting, and optimization capabilities.
+      - generic [ref=e198]:
+        - generic [ref=e199]:
+          - img [ref=e202]
+          - heading "Value-Added Services" [level=2] [ref=e204]
+          - paragraph [ref=e205]: Comprehensive value-added services to enhance your product offerings and streamline operations.
+          - list [ref=e206]:
+            - listitem [ref=e207]:
+              - img [ref=e208]
+              - generic [ref=e210]: Product labeling & packaging
+            - listitem [ref=e211]:
+              - img [ref=e212]
+              - generic [ref=e214]: Returns management
+            - listitem [ref=e215]:
+              - img [ref=e216]
+              - generic [ref=e218]: Quality inspection
+            - listitem [ref=e219]:
+              - img [ref=e220]
+              - generic [ref=e222]: Kit assembly
+            - listitem [ref=e223]:
+              - img [ref=e224]
+              - generic [ref=e226]: Custom packaging design
+        - generic [ref=e231]:
+          - img "Value-Added Services" [ref=e232]
+          - generic [ref=e234]:
+            - heading "Value-Added Services" [level=3] [ref=e235]
+            - paragraph [ref=e236]: Comprehensive value-added services to enhance your product offerings and streamline operations.
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - img [ref=e241]
+          - heading "Technology & Integration" [level=2] [ref=e243]
+          - paragraph [ref=e244]: Advanced technology platform with seamless integration capabilities for complete visibility and control.
+          - list [ref=e245]:
+            - listitem [ref=e246]:
+              - img [ref=e247]
+              - generic [ref=e249]: WMS & TMS integration
+            - listitem [ref=e250]:
+              - img [ref=e251]
+              - generic [ref=e253]: EDI & API connectivity
+            - listitem [ref=e254]:
+              - img [ref=e255]
+              - generic [ref=e257]: Real-time tracking
+            - listitem [ref=e258]:
+              - img [ref=e259]
+              - generic [ref=e261]: Automated reporting
+            - listitem [ref=e262]:
+              - img [ref=e263]
+              - generic [ref=e265]: Mobile applications
+        - generic [ref=e270]:
+          - img "Technology & Integration" [ref=e271]
+          - generic [ref=e273]:
+            - heading "Technology & Integration" [level=3] [ref=e274]
+            - paragraph [ref=e275]: Advanced technology platform with seamless integration capabilities for complete visibility and control.
+    - generic [ref=e277]:
+      - generic [ref=e278]:
+        - generic [ref=e279]: Our Approach
+        - heading "Our Process" [level=2] [ref=e280]
+        - paragraph [ref=e281]: A streamlined approach to deliver exceptional results every time.
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - img [ref=e286]
+          - generic [ref=e288]: "01"
+          - heading "Consultation" [level=3] [ref=e289]
+          - paragraph [ref=e290]: Understand your unique requirements and challenges
+        - generic [ref=e291]:
+          - img [ref=e294]
+          - generic [ref=e296]: "02"
+          - heading "Planning" [level=3] [ref=e297]
+          - paragraph [ref=e298]: Design customized solutions tailored to your needs
+        - generic [ref=e299]:
+          - img [ref=e302]
+          - generic [ref=e304]: "03"
+          - heading "Implementation" [level=3] [ref=e305]
+          - paragraph [ref=e306]: Execute with precision and attention to detail
+        - generic [ref=e307]:
+          - img [ref=e310]
+          - generic [ref=e312]: "04"
+          - heading "Optimization" [level=3] [ref=e313]
+          - paragraph [ref=e314]: Continuous improvement and performance monitoring
+    - generic [ref=e315]:
+      - img "Modern warehouse operations" [ref=e317]
+      - generic [ref=e320]:
+        - generic [ref=e321]: Get Started Today
+        - heading "Ready to Optimize with AstroFlow?" [level=2] [ref=e322]
+        - paragraph [ref=e323]: Let's discuss how our capabilities can transform your business and accelerate your growth.
+        - generic [ref=e324]:
+          - link "Request a Quote" [ref=e325] [cursor=pointer]:
+            - /url: /rfq
+          - link "View Facilities" [ref=e326] [cursor=pointer]:
+            - /url: /facilities
+  - contentinfo [ref=e327]:
+    - generic [ref=e328]:
+      - generic [ref=e329]:
+        - generic [ref=e330]:
+          - link "AstroFlow" [ref=e331] [cursor=pointer]:
+            - /url: /
+            - img [ref=e333]
+            - generic [ref=e337]: AstroFlow
+          - paragraph [ref=e338]: Leading provider of optimized logistics and manufacturing solutions with state-of-the-art facilities and industry expertise.
+          - generic [ref=e339]:
+            - link "LinkedIn" [ref=e340] [cursor=pointer]:
+              - /url: https://linkedin.com/company/yourcompany
+              - img [ref=e341]
+            - link "Twitter" [ref=e345] [cursor=pointer]:
+              - /url: https://twitter.com/yourcompany
+              - img [ref=e346]
+            - link "Facebook" [ref=e348] [cursor=pointer]:
+              - /url: https://facebook.com/yourcompany
+              - img [ref=e349]
+        - generic [ref=e351]:
+          - heading "Quick Links" [level=3] [ref=e352]
+          - list [ref=e353]:
+            - listitem [ref=e354]:
+              - link "Home" [ref=e355] [cursor=pointer]:
+                - /url: /
+                - text: Home
+            - listitem [ref=e356]:
+              - link "Capabilities" [ref=e357] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Capabilities
+            - listitem [ref=e358]:
+              - link "Use Cases" [ref=e359] [cursor=pointer]:
+                - /url: /use-cases
+                - text: Use Cases
+            - listitem [ref=e360]:
+              - link "Facilities" [ref=e361] [cursor=pointer]:
+                - /url: /facilities
+                - text: Facilities
+            - listitem [ref=e362]:
+              - link "Track Package" [ref=e363] [cursor=pointer]:
+                - /url: /tracking
+                - text: Track Package
+            - listitem [ref=e364]:
+              - link "Request Quote" [ref=e365] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request Quote
+            - listitem [ref=e366]:
+              - link "Documentation" [ref=e367] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+        - generic [ref=e368]:
+          - heading "Services" [level=3] [ref=e369]
+          - list [ref=e370]:
+            - listitem [ref=e371]:
+              - link "Warehousing & Storage" [ref=e372] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Warehousing & Storage
+            - listitem [ref=e373]:
+              - link "Transportation" [ref=e374] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Transportation
+            - listitem [ref=e375]:
+              - link "Manufacturing" [ref=e376] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Manufacturing
+            - listitem [ref=e377]:
+              - link "Supply Chain Management" [ref=e378] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Supply Chain Management
+        - generic [ref=e379]:
+          - heading "Get Started" [level=3] [ref=e380]
+          - list [ref=e381]:
+            - listitem [ref=e382]:
+              - link "Request a Quote" [ref=e383] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request a Quote
+            - listitem [ref=e384]:
+              - link "Find a Facility" [ref=e385] [cursor=pointer]:
+                - /url: /facilities
+                - text: Find a Facility
+            - listitem [ref=e386]:
+              - link "Documentation" [ref=e387] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+          - link "Get Started" [ref=e389] [cursor=pointer]:
+            - /url: /rfq
+      - generic [ref=e391]:
+        - paragraph [ref=e392]: © 2026 AstroFlow. All rights reserved.
+        - generic [ref=e393]:
+          - link "Privacy Policy" [ref=e394] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e395]: •
+          - link "Terms of Service" [ref=e396] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e397]: •
+          - link "Cookie Policy" [ref=e398] [cursor=pointer]:
+            - /url: /
+  - generic [ref=e401]:
+    - button "Menu" [ref=e402]:
+      - img [ref=e404]
+      - generic: Menu
+    - button "Inspect" [ref=e408]:
+      - img [ref=e410]
+      - generic: Inspect
+    - button "Audit" [ref=e412]:
+      - generic [ref=e413]:
+        - img [ref=e414]
+        - img [ref=e417]
+      - generic: Audit
+    - button "Settings" [ref=e420]:
+      - img [ref=e422]
+      - generic: Settings

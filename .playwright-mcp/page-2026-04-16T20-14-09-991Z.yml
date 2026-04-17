@@ -1,0 +1,364 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "AstroFlow" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - generic [ref=e11]: AstroFlow
+      - generic [ref=e12]:
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - link "Capabilities" [ref=e14] [cursor=pointer]:
+          - /url: /capabilities
+        - link "Use Cases" [ref=e15] [cursor=pointer]:
+          - /url: /use-cases
+        - link "Facilities" [ref=e16] [cursor=pointer]:
+          - /url: /facilities
+        - link "Track Package" [ref=e17] [cursor=pointer]:
+          - /url: /tracking
+        - link "Request Quote" [ref=e18] [cursor=pointer]:
+          - /url: /rfq
+        - link "Documentation" [ref=e19] [cursor=pointer]:
+          - /url: /documentation
+      - generic [ref=e20]:
+        - link "Request Quote" [ref=e21] [cursor=pointer]:
+          - /url: /rfq
+        - link "Login" [ref=e23] [cursor=pointer]:
+          - /url: /login
+          - img [ref=e24]
+          - text: Login
+  - main [ref=e27]:
+    - generic [ref=e28]:
+      - img "Professional logistics and supply chain management" [ref=e30]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - img [ref=e35]
+          - text: Get Your Custom Quote Today
+        - heading "Request a Quote" [level=1] [ref=e38]
+        - paragraph [ref=e39]: Get a customized quote tailored to your specific logistics and manufacturing needs. We typically respond within 24 hours with a comprehensive proposal.
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - generic [ref=e42]: 24hr
+            - generic [ref=e43]: Response Time
+          - generic [ref=e44]:
+            - generic [ref=e45]: 500+
+            - generic [ref=e46]: Happy Clients
+          - generic [ref=e47]:
+            - generic [ref=e48]: 99.9%
+            - generic [ref=e49]: On-Time Rate
+          - generic [ref=e50]:
+            - generic [ref=e51]: 15+
+            - generic [ref=e52]: Facilities
+    - generic [ref=e55]:
+      - generic [ref=e59]:
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - img [ref=e63]
+            - heading "Contact Information" [level=2] [ref=e66]
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - generic [ref=e69]: First Name *
+              - textbox "First Name *" [ref=e70]
+            - generic [ref=e71]:
+              - generic [ref=e72]: Last Name *
+              - textbox "Last Name *" [ref=e73]
+            - generic [ref=e74]:
+              - generic [ref=e75]: Email Address *
+              - textbox "Email Address *" [ref=e76]
+            - generic [ref=e77]:
+              - generic [ref=e78]: Phone Number *
+              - textbox "Phone Number *" [ref=e79]
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - img [ref=e83]
+            - heading "Company Information" [level=2] [ref=e87]
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - generic [ref=e90]: Company Name *
+              - textbox "Company Name *" [ref=e91]
+            - generic [ref=e92]:
+              - generic [ref=e93]: Industry *
+              - combobox "Industry *" [ref=e94]:
+                - option "Select an industry" [selected]
+                - option "E-Commerce & Retail"
+                - option "Healthcare & Pharmaceuticals"
+                - option "Automotive & Manufacturing"
+                - option "Technology & Electronics"
+                - option "Consumer Goods"
+                - option "Food & Beverage"
+                - option "Other"
+        - generic [ref=e95]:
+          - generic [ref=e96]:
+            - img [ref=e98]
+            - heading "Service Requirements" [level=2] [ref=e101]
+          - generic [ref=e102]:
+            - generic [ref=e103]:
+              - generic [ref=e104]: Services Needed *
+              - generic [ref=e105]:
+                - generic [ref=e106] [cursor=pointer]:
+                  - checkbox "Warehousing & Storage" [ref=e107]
+                  - checkbox
+                  - img [ref=e109]
+                  - generic [ref=e112]: Warehousing & Storage
+                - generic [ref=e113] [cursor=pointer]:
+                  - checkbox "Manufacturing Services" [ref=e114]
+                  - checkbox
+                  - img [ref=e116]
+                  - generic [ref=e118]: Manufacturing Services
+                - generic [ref=e119] [cursor=pointer]:
+                  - checkbox "Transportation & Distribution" [ref=e120]
+                  - checkbox
+                  - img [ref=e122]
+                  - generic [ref=e127]: Transportation & Distribution
+                - generic [ref=e128] [cursor=pointer]:
+                  - checkbox "Supply Chain Management" [ref=e129]
+                  - checkbox
+                  - img [ref=e131]
+                  - generic [ref=e136]: Supply Chain Management
+                - generic [ref=e137] [cursor=pointer]:
+                  - checkbox "Value-Added Services" [ref=e138]
+                  - checkbox
+                  - img [ref=e140]
+                  - generic [ref=e142]: Value-Added Services
+                - generic [ref=e143] [cursor=pointer]:
+                  - checkbox "Technology Integration" [ref=e144]
+                  - checkbox
+                  - img [ref=e146]
+                  - generic [ref=e149]: Technology Integration
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - generic [ref=e152]:
+                  - img [ref=e153]
+                  - text: Timeline
+                  - generic [ref=e155]: "*"
+                - generic [ref=e156]:
+                  - combobox "Timeline *" [ref=e157]:
+                    - option "Select timeline" [selected]
+                    - option "Immediate (Within 1 month)"
+                    - option "1-3 months"
+                    - option "3-6 months"
+                    - option "6+ months"
+                    - option "Flexible"
+                  - img
+              - generic [ref=e158]:
+                - generic [ref=e159]:
+                  - img [ref=e160]
+                  - text: Estimated Monthly Volume
+                - generic [ref=e164]:
+                  - textbox "Estimated Monthly Volume" [ref=e165]:
+                    - /placeholder: e.g., 10,000 units
+                  - img
+            - generic [ref=e166]:
+              - generic [ref=e167]: Project Details *
+              - textbox "Project Details *" [ref=e168]:
+                - /placeholder: Please provide details about your requirements, including product specifications, storage needs, shipping destinations, or any other relevant information...
+        - generic [ref=e169]:
+          - button "Submit Request" [ref=e170]:
+            - generic [ref=e171]: Submit Request
+            - img [ref=e172]
+          - paragraph [ref=e174]: By submitting this form, you agree to our Privacy Policy and Terms of Service.
+      - generic [ref=e175]:
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - img [ref=e179]
+            - heading "Need Help?" [level=3] [ref=e181]
+          - generic [ref=e182]:
+            - generic [ref=e183]:
+              - img [ref=e185]
+              - generic [ref=e187]:
+                - generic [ref=e188]: Phone
+                - generic [ref=e189]: 1-800-LOGI-MANUF
+                - generic [ref=e190]: Mon-Fri, 8am-6pm EST
+            - generic [ref=e191]:
+              - img [ref=e193]
+              - generic [ref=e196]:
+                - generic [ref=e197]: Email
+                - generic [ref=e198]: quotes@astroflow.com
+                - generic [ref=e199]: 24-hour response time
+            - generic [ref=e200]:
+              - img [ref=e202]
+              - generic [ref=e204]:
+                - generic [ref=e205]: Live Chat
+                - generic [ref=e206]: Available on website
+                - generic [ref=e207]: Instant support
+        - generic [ref=e208]:
+          - generic [ref=e209]:
+            - img [ref=e211]
+            - heading "What to Expect" [level=3] [ref=e214]
+          - list [ref=e215]:
+            - listitem [ref=e216]:
+              - generic [ref=e217]: "1"
+              - generic [ref=e218]:
+                - generic [ref=e219]: Response
+                - text: We'll review your request within 24 hours
+            - listitem [ref=e220]:
+              - generic [ref=e221]: "2"
+              - generic [ref=e222]:
+                - generic [ref=e223]: Consultation
+                - text: Schedule a call to discuss your needs
+            - listitem [ref=e224]:
+              - generic [ref=e225]: "3"
+              - generic [ref=e226]:
+                - generic [ref=e227]: Proposal
+                - text: Receive a detailed quote and timeline
+            - listitem [ref=e228]:
+              - generic [ref=e229]: "4"
+              - generic [ref=e230]:
+                - generic [ref=e231]: Partnership
+                - text: Begin your logistics journey with us
+        - generic [ref=e232]:
+          - generic [ref=e233]:
+            - img [ref=e235]
+            - heading "Why Choose Us?" [level=3] [ref=e238]
+          - list [ref=e239]:
+            - listitem [ref=e240]:
+              - img [ref=e242]
+              - generic [ref=e245]: 25+ years of industry experience
+            - listitem [ref=e246]:
+              - img [ref=e248]
+              - generic [ref=e251]: 99.9% on-time delivery rate
+            - listitem [ref=e252]:
+              - img [ref=e254]
+              - generic [ref=e256]: ISO 9001 certified facilities
+            - listitem [ref=e257]:
+              - img [ref=e259]
+              - generic [ref=e264]: 24/7 customer support
+    - generic [ref=e266]:
+      - generic [ref=e267]:
+        - generic [ref=e268]: Trusted by Industry Leaders
+        - heading "Join Hundreds of Successful Companies" [level=2] [ref=e269]
+        - paragraph [ref=e270]: We've helped companies of all sizes streamline their logistics and manufacturing operations.
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - img [ref=e274]
+          - heading "Secure & Reliable" [level=3] [ref=e276]
+          - paragraph [ref=e277]: Enterprise-grade security and 99.9% uptime guarantee for your peace of mind.
+        - generic [ref=e278]:
+          - img [ref=e280]
+          - heading "Scalable Solutions" [level=3] [ref=e283]
+          - paragraph [ref=e284]: Grow your business with solutions that scale from startup to enterprise level.
+        - generic [ref=e285]:
+          - img [ref=e287]
+          - heading "Expert Support" [level=3] [ref=e292]
+          - paragraph [ref=e293]: Dedicated account managers and 24/7 support to help you succeed.
+      - generic [ref=e294]:
+        - img "Modern warehouse facility with advanced logistics technology" [ref=e296]
+        - generic [ref=e298]:
+          - heading "Ready to Transform Your Supply Chain?" [level=3] [ref=e299]
+          - paragraph [ref=e300]: Get started today with a customized quote that fits your unique business needs.
+          - link "Request Your Quote Now" [ref=e301] [cursor=pointer]:
+            - /url: "#rfq-form"
+            - text: Request Your Quote Now
+            - img [ref=e302]
+  - contentinfo [ref=e304]:
+    - generic [ref=e305]:
+      - generic [ref=e306]:
+        - generic [ref=e307]:
+          - link "AstroFlow" [ref=e308] [cursor=pointer]:
+            - /url: /
+            - img [ref=e310]
+            - generic [ref=e314]: AstroFlow
+          - paragraph [ref=e315]: Leading provider of optimized logistics and manufacturing solutions with state-of-the-art facilities and industry expertise.
+          - generic [ref=e316]:
+            - link "LinkedIn" [ref=e317] [cursor=pointer]:
+              - /url: https://linkedin.com/company/yourcompany
+              - img [ref=e318]
+            - link "Twitter" [ref=e322] [cursor=pointer]:
+              - /url: https://twitter.com/yourcompany
+              - img [ref=e323]
+            - link "Facebook" [ref=e325] [cursor=pointer]:
+              - /url: https://facebook.com/yourcompany
+              - img [ref=e326]
+        - generic [ref=e328]:
+          - heading "Quick Links" [level=3] [ref=e329]
+          - list [ref=e330]:
+            - listitem [ref=e331]:
+              - link "Home" [ref=e332] [cursor=pointer]:
+                - /url: /
+                - text: Home
+            - listitem [ref=e333]:
+              - link "Capabilities" [ref=e334] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Capabilities
+            - listitem [ref=e335]:
+              - link "Use Cases" [ref=e336] [cursor=pointer]:
+                - /url: /use-cases
+                - text: Use Cases
+            - listitem [ref=e337]:
+              - link "Facilities" [ref=e338] [cursor=pointer]:
+                - /url: /facilities
+                - text: Facilities
+            - listitem [ref=e339]:
+              - link "Track Package" [ref=e340] [cursor=pointer]:
+                - /url: /tracking
+                - text: Track Package
+            - listitem [ref=e341]:
+              - link "Request Quote" [ref=e342] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request Quote
+            - listitem [ref=e343]:
+              - link "Documentation" [ref=e344] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+        - generic [ref=e345]:
+          - heading "Services" [level=3] [ref=e346]
+          - list [ref=e347]:
+            - listitem [ref=e348]:
+              - link "Warehousing & Storage" [ref=e349] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Warehousing & Storage
+            - listitem [ref=e350]:
+              - link "Transportation" [ref=e351] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Transportation
+            - listitem [ref=e352]:
+              - link "Manufacturing" [ref=e353] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Manufacturing
+            - listitem [ref=e354]:
+              - link "Supply Chain Management" [ref=e355] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Supply Chain Management
+        - generic [ref=e356]:
+          - heading "Get Started" [level=3] [ref=e357]
+          - list [ref=e358]:
+            - listitem [ref=e359]:
+              - link "Request a Quote" [ref=e360] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request a Quote
+            - listitem [ref=e361]:
+              - link "Find a Facility" [ref=e362] [cursor=pointer]:
+                - /url: /facilities
+                - text: Find a Facility
+            - listitem [ref=e363]:
+              - link "Documentation" [ref=e364] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+          - link "Get Started" [ref=e366] [cursor=pointer]:
+            - /url: /rfq
+      - generic [ref=e368]:
+        - paragraph [ref=e369]: © 2026 AstroFlow. All rights reserved.
+        - generic [ref=e370]:
+          - link "Privacy Policy" [ref=e371] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e372]: •
+          - link "Terms of Service" [ref=e373] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e374]: •
+          - link "Cookie Policy" [ref=e375] [cursor=pointer]:
+            - /url: /
+  - generic [ref=e378]:
+    - button "Menu" [ref=e379]:
+      - img [ref=e381]
+      - generic: Menu
+    - button "Inspect" [ref=e385]:
+      - img [ref=e387]
+      - generic: Inspect
+    - button "Audit" [ref=e389]:
+      - generic [ref=e390]:
+        - img [ref=e391]
+        - img [ref=e394]
+      - generic: Audit
+    - button "Settings" [ref=e397]:
+      - img [ref=e399]
+      - generic: Settings

@@ -1,0 +1,28 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import PackageTracker from '@components/react/PackageTracker';
+---
+
+<script is:inline>
+  if (localStorage.getItem('jago_auth') !== 'true') {
+    window.location.replace('/login');
+  }
+</script>
+
+<BaseLayout title="Track Package - AstroFlow" description="Track your AstroFlow shipment in real time.">
+  <!-- Page header -->
+  <section class="bg-[#1a2744] py-14">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+      <p class="text-orange-400 text-sm font-semibold uppercase tracking-widest mb-2">Shipment Tracking</p>
+      <h1 class="text-3xl md:text-4xl font-bold text-white mb-2">Track Your Package</h1>
+      <p class="text-slate-300 text-lg">Enter a tracking number below to see live status and delivery updates.</p>
+    </div>
+  </section>
+
+  <!-- Tracker -->
+  <section class="py-12 bg-slate-50 min-h-[60vh]">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+      <PackageTracker client:load />
+    </div>
+  </section>
+</BaseLayout>

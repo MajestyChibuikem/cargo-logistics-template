@@ -1,0 +1,484 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "AstroFlow" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - generic [ref=e11]: AstroFlow
+      - generic [ref=e12]:
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - link "Capabilities" [ref=e14] [cursor=pointer]:
+          - /url: /capabilities
+        - link "Use Cases" [ref=e15] [cursor=pointer]:
+          - /url: /use-cases
+        - link "Facilities" [ref=e16] [cursor=pointer]:
+          - /url: /facilities
+        - link "Track Package" [ref=e17] [cursor=pointer]:
+          - /url: /tracking
+        - link "Request Quote" [ref=e18] [cursor=pointer]:
+          - /url: /rfq
+        - link "Documentation" [ref=e19] [cursor=pointer]:
+          - /url: /documentation
+      - generic [ref=e20]:
+        - link "Request Quote" [ref=e21] [cursor=pointer]:
+          - /url: /rfq
+        - button "Logout" [ref=e23] [cursor=pointer]:
+          - img [ref=e24]
+          - text: Logout
+  - main [ref=e27]:
+    - generic [ref=e28]:
+      - img "Modern facilities and infrastructure" [ref=e30]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - img [ref=e35]
+          - text: Our Infrastructure
+        - heading "Our Facilities" [level=1] [ref=e37]
+        - paragraph [ref=e38]: Strategically located facilities across North America equipped with state-of-the-art technology and industry certifications.
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - img [ref=e45]
+        - generic [ref=e49]: 2.25M+
+        - generic [ref=e50]: Total Square Footage
+      - generic [ref=e51]:
+        - img [ref=e53]
+        - generic [ref=e58]: 200+
+        - generic [ref=e59]: Delivery Vehicles
+      - generic [ref=e60]:
+        - img [ref=e62]
+        - generic [ref=e67]: 1,000+
+        - generic [ref=e68]: Trained Staff
+      - generic [ref=e69]:
+        - img [ref=e71]
+        - generic [ref=e74]: Global
+        - generic [ref=e75]: Geographic Reach
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - generic [ref=e79]: Our Locations
+        - heading "Strategic Facilities" [level=2] [ref=e80]
+        - paragraph [ref=e81]: Each facility is designed to meet specific industry needs with cutting-edge infrastructure and capabilities.
+      - generic [ref=e82]:
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - img "North American Hub" [ref=e88]
+            - img [ref=e92]
+            - generic [ref=e94]:
+              - heading "North American Hub" [level=3] [ref=e95]
+              - paragraph [ref=e96]: Distribution & Manufacturing
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - generic [ref=e99]:
+                - img [ref=e100]
+                - text: Chicago, Illinois
+              - generic [ref=e103]: •
+              - generic [ref=e104]:
+                - img [ref=e105]
+                - text: 500,000 sq ft
+            - generic [ref=e107]:
+              - heading "Key Features" [level=4] [ref=e108]:
+                - img [ref=e109]
+                - text: Key Features
+              - list [ref=e111]:
+                - listitem [ref=e112]:
+                  - img [ref=e113]
+                  - generic [ref=e115]: Automated warehouse systems
+                - listitem [ref=e116]:
+                  - img [ref=e117]
+                  - generic [ref=e119]: Climate-controlled storage
+                - listitem [ref=e120]:
+                  - img [ref=e121]
+                  - generic [ref=e123]: CNC machining center
+                - listitem [ref=e124]:
+                  - img [ref=e125]
+                  - generic [ref=e127]: Rail and truck access
+                - listitem [ref=e128]:
+                  - img [ref=e129]
+                  - generic [ref=e131]: 24/7 operations
+            - generic [ref=e132]:
+              - heading "Certifications" [level=4] [ref=e133]:
+                - img [ref=e134]
+                - text: Certifications
+              - generic [ref=e136]:
+                - generic [ref=e137]: ISO 9001
+                - generic [ref=e138]: ISO 14001
+                - generic [ref=e139]: OSHA Compliant
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - img "West Coast Distribution" [ref=e145]
+            - img [ref=e149]
+            - generic [ref=e151]:
+              - heading "West Coast Distribution" [level=3] [ref=e152]
+              - paragraph [ref=e153]: Port Logistics & Warehousing
+          - generic [ref=e154]:
+            - generic [ref=e155]:
+              - generic [ref=e156]:
+                - img [ref=e157]
+                - text: Los Angeles, California
+              - generic [ref=e160]: •
+              - generic [ref=e161]:
+                - img [ref=e162]
+                - text: 350,000 sq ft
+            - generic [ref=e164]:
+              - heading "Key Features" [level=4] [ref=e165]:
+                - img [ref=e166]
+                - text: Key Features
+              - list [ref=e168]:
+                - listitem [ref=e169]:
+                  - img [ref=e170]
+                  - generic [ref=e172]: Port-adjacent location
+                - listitem [ref=e173]:
+                  - img [ref=e174]
+                  - generic [ref=e176]: Cross-docking capabilities
+                - listitem [ref=e177]:
+                  - img [ref=e178]
+                  - generic [ref=e180]: Bonded warehouse
+                - listitem [ref=e181]:
+                  - img [ref=e182]
+                  - generic [ref=e184]: Container storage
+                - listitem [ref=e185]:
+                  - img [ref=e186]
+                  - generic [ref=e188]: LTL/FTL consolidation
+            - generic [ref=e189]:
+              - heading "Certifications" [level=4] [ref=e190]:
+                - img [ref=e191]
+                - text: Certifications
+              - generic [ref=e193]:
+                - generic [ref=e194]: C-TPAT
+                - generic [ref=e195]: ISO 9001
+                - generic [ref=e196]: FDA Registered
+        - generic [ref=e200]:
+          - generic [ref=e201]:
+            - img "East Coast Operations" [ref=e202]
+            - img [ref=e206]
+            - generic [ref=e208]:
+              - heading "East Coast Operations" [level=3] [ref=e209]
+              - paragraph [ref=e210]: Distribution & Value-Added Services
+          - generic [ref=e211]:
+            - generic [ref=e212]:
+              - generic [ref=e213]:
+                - img [ref=e214]
+                - text: Newark, New Jersey
+              - generic [ref=e217]: •
+              - generic [ref=e218]:
+                - img [ref=e219]
+                - text: 400,000 sq ft
+            - generic [ref=e221]:
+              - heading "Key Features" [level=4] [ref=e222]:
+                - img [ref=e223]
+                - text: Key Features
+              - list [ref=e225]:
+                - listitem [ref=e226]:
+                  - img [ref=e227]
+                  - generic [ref=e229]: E-commerce fulfillment
+                - listitem [ref=e230]:
+                  - img [ref=e231]
+                  - generic [ref=e233]: Kitting and assembly
+                - listitem [ref=e234]:
+                  - img [ref=e235]
+                  - generic [ref=e237]: Returns processing
+                - listitem [ref=e238]:
+                  - img [ref=e239]
+                  - generic [ref=e241]: Same-day shipping
+                - listitem [ref=e242]:
+                  - img [ref=e243]
+                  - generic [ref=e245]: Multi-client operations
+            - generic [ref=e246]:
+              - heading "Certifications" [level=4] [ref=e247]:
+                - img [ref=e248]
+                - text: Certifications
+              - generic [ref=e250]:
+                - generic [ref=e251]: ISO 9001
+                - generic [ref=e252]: ISTA Certified
+                - generic [ref=e253]: TSA Approved
+        - generic [ref=e257]:
+          - generic [ref=e258]:
+            - img "Southern Manufacturing Center" [ref=e259]
+            - img [ref=e263]
+            - generic [ref=e265]:
+              - heading "Southern Manufacturing Center" [level=3] [ref=e266]
+              - paragraph [ref=e267]: Manufacturing & Assembly
+          - generic [ref=e268]:
+            - generic [ref=e269]:
+              - generic [ref=e270]:
+                - img [ref=e271]
+                - text: Houston, Texas
+              - generic [ref=e274]: •
+              - generic [ref=e275]:
+                - img [ref=e276]
+                - text: 300,000 sq ft
+            - generic [ref=e278]:
+              - heading "Key Features" [level=4] [ref=e279]:
+                - img [ref=e280]
+                - text: Key Features
+              - list [ref=e282]:
+                - listitem [ref=e283]:
+                  - img [ref=e284]
+                  - generic [ref=e286]: Precision manufacturing
+                - listitem [ref=e287]:
+                  - img [ref=e288]
+                  - generic [ref=e290]: Quality control lab
+                - listitem [ref=e291]:
+                  - img [ref=e292]
+                  - generic [ref=e294]: Assembly lines
+                - listitem [ref=e295]:
+                  - img [ref=e296]
+                  - generic [ref=e298]: Prototype development
+                - listitem [ref=e299]:
+                  - img [ref=e300]
+                  - generic [ref=e302]: Tool & die shop
+            - generic [ref=e303]:
+              - heading "Certifications" [level=4] [ref=e304]:
+                - img [ref=e305]
+                - text: Certifications
+              - generic [ref=e307]:
+                - generic [ref=e308]: ISO 9001
+                - generic [ref=e309]: AS9100
+                - generic [ref=e310]: ITAR Registered
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - img "Midwest Cold Storage" [ref=e316]
+            - img [ref=e320]
+            - generic [ref=e322]:
+              - heading "Midwest Cold Storage" [level=3] [ref=e323]
+              - paragraph [ref=e324]: Refrigerated & Frozen Storage
+          - generic [ref=e325]:
+            - generic [ref=e326]:
+              - generic [ref=e327]:
+                - img [ref=e328]
+                - text: Minneapolis, Minnesota
+              - generic [ref=e331]: •
+              - generic [ref=e332]:
+                - img [ref=e333]
+                - text: 250,000 sq ft
+            - generic [ref=e335]:
+              - heading "Key Features" [level=4] [ref=e336]:
+                - img [ref=e337]
+                - text: Key Features
+              - list [ref=e339]:
+                - listitem [ref=e340]:
+                  - img [ref=e341]
+                  - generic [ref=e343]: "Temperature zones: -20°F to 60°F"
+                - listitem [ref=e344]:
+                  - img [ref=e345]
+                  - generic [ref=e347]: HACCP compliant
+                - listitem [ref=e348]:
+                  - img [ref=e349]
+                  - generic [ref=e351]: Blast freezing
+                - listitem [ref=e352]:
+                  - img [ref=e353]
+                  - generic [ref=e355]: Food-grade facility
+                - listitem [ref=e356]:
+                  - img [ref=e357]
+                  - generic [ref=e359]: Lot tracking systems
+            - generic [ref=e360]:
+              - heading "Certifications" [level=4] [ref=e361]:
+                - img [ref=e362]
+                - text: Certifications
+              - generic [ref=e364]:
+                - generic [ref=e365]: FSMA
+                - generic [ref=e366]: SQF Level 3
+                - generic [ref=e367]: FDA Registered
+        - generic [ref=e371]:
+          - generic [ref=e372]:
+            - img "Southeast Distribution" [ref=e373]
+            - img [ref=e377]
+            - generic [ref=e379]:
+              - heading "Southeast Distribution" [level=3] [ref=e380]
+              - paragraph [ref=e381]: Distribution & Transportation Hub
+          - generic [ref=e382]:
+            - generic [ref=e383]:
+              - generic [ref=e384]:
+                - img [ref=e385]
+                - text: Atlanta, Georgia
+              - generic [ref=e388]: •
+              - generic [ref=e389]:
+                - img [ref=e390]
+                - text: 450,000 sq ft
+            - generic [ref=e392]:
+              - heading "Key Features" [level=4] [ref=e393]:
+                - img [ref=e394]
+                - text: Key Features
+              - list [ref=e396]:
+                - listitem [ref=e397]:
+                  - img [ref=e398]
+                  - generic [ref=e400]: Strategic location
+                - listitem [ref=e401]:
+                  - img [ref=e402]
+                  - generic [ref=e404]: Cross-docking
+                - listitem [ref=e405]:
+                  - img [ref=e406]
+                  - generic [ref=e408]: Regional distribution
+                - listitem [ref=e409]:
+                  - img [ref=e410]
+                  - generic [ref=e412]: Parcel integration
+                - listitem [ref=e413]:
+                  - img [ref=e414]
+                  - generic [ref=e416]: Transloading services
+            - generic [ref=e417]:
+              - heading "Certifications" [level=4] [ref=e418]:
+                - img [ref=e419]
+                - text: Certifications
+              - generic [ref=e421]:
+                - generic [ref=e422]: ISO 9001
+                - generic [ref=e423]: C-TPAT
+                - generic [ref=e424]: OSHA Compliant
+    - generic [ref=e427]:
+      - generic [ref=e428]:
+        - generic [ref=e429]: Network Coverage
+        - heading "Strategic Coverage" [level=2] [ref=e430]
+        - paragraph [ref=e431]: Our facilities are strategically positioned to provide optimal coverage across North America
+      - generic [ref=e434]:
+        - img [ref=e435]
+        - paragraph [ref=e437]: Interactive Map
+        - paragraph [ref=e438]: Contact us for detailed facility information and tours
+    - generic [ref=e447]:
+      - generic [ref=e448]:
+        - generic [ref=e449]: Our Standards
+        - heading "Facility Standards" [level=2] [ref=e450]
+        - paragraph [ref=e451]: Every facility meets our rigorous standards for safety, security, and operational excellence.
+      - generic [ref=e452]:
+        - generic [ref=e453]:
+          - img [ref=e455]
+          - heading "Security" [level=3] [ref=e457]
+          - paragraph [ref=e458]: 24/7 surveillance, access control, and security personnel at all locations
+        - generic [ref=e459]:
+          - img [ref=e461]
+          - heading "Quality Control" [level=3] [ref=e463]
+          - paragraph [ref=e464]: Rigorous inspection processes and quality management systems
+        - generic [ref=e465]:
+          - img [ref=e467]
+          - heading "Efficiency" [level=3] [ref=e469]
+          - paragraph [ref=e470]: Optimized layouts and automated systems for maximum throughput
+        - generic [ref=e471]:
+          - img [ref=e473]
+          - heading "Sustainability" [level=3] [ref=e475]
+          - paragraph [ref=e476]: Energy-efficient operations and environmental management programs
+        - generic [ref=e477]:
+          - img [ref=e479]
+          - heading "Technology" [level=3] [ref=e481]
+          - paragraph [ref=e482]: Real-time tracking, WMS, and automated reporting systems
+        - generic [ref=e483]:
+          - img [ref=e485]
+          - heading "Expert Team" [level=3] [ref=e487]
+          - paragraph [ref=e488]: Trained professionals dedicated to operational excellence
+    - generic [ref=e489]:
+      - img "Modern facilities and infrastructure" [ref=e491]
+      - generic [ref=e494]:
+        - generic [ref=e495]: Get Started Today
+        - heading "Ready to Visit Our Facilities?" [level=2] [ref=e496]
+        - paragraph [ref=e497]: Schedule a tour to see our operations firsthand and discuss how we can meet your needs.
+        - generic [ref=e498]:
+          - link "Request a Quote" [ref=e499] [cursor=pointer]:
+            - /url: /rfq
+          - link "View Capabilities" [ref=e500] [cursor=pointer]:
+            - /url: /capabilities
+  - contentinfo [ref=e501]:
+    - generic [ref=e502]:
+      - generic [ref=e503]:
+        - generic [ref=e504]:
+          - link "AstroFlow" [ref=e505] [cursor=pointer]:
+            - /url: /
+            - img [ref=e507]
+            - generic [ref=e511]: AstroFlow
+          - paragraph [ref=e512]: Leading provider of optimized logistics and manufacturing solutions with state-of-the-art facilities and industry expertise.
+          - generic [ref=e513]:
+            - link "LinkedIn" [ref=e514] [cursor=pointer]:
+              - /url: https://linkedin.com/company/yourcompany
+              - img [ref=e515]
+            - link "Twitter" [ref=e519] [cursor=pointer]:
+              - /url: https://twitter.com/yourcompany
+              - img [ref=e520]
+            - link "Facebook" [ref=e522] [cursor=pointer]:
+              - /url: https://facebook.com/yourcompany
+              - img [ref=e523]
+        - generic [ref=e525]:
+          - heading "Quick Links" [level=3] [ref=e526]
+          - list [ref=e527]:
+            - listitem [ref=e528]:
+              - link "Home" [ref=e529] [cursor=pointer]:
+                - /url: /
+                - text: Home
+            - listitem [ref=e530]:
+              - link "Capabilities" [ref=e531] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Capabilities
+            - listitem [ref=e532]:
+              - link "Use Cases" [ref=e533] [cursor=pointer]:
+                - /url: /use-cases
+                - text: Use Cases
+            - listitem [ref=e534]:
+              - link "Facilities" [ref=e535] [cursor=pointer]:
+                - /url: /facilities
+                - text: Facilities
+            - listitem [ref=e536]:
+              - link "Track Package" [ref=e537] [cursor=pointer]:
+                - /url: /tracking
+                - text: Track Package
+            - listitem [ref=e538]:
+              - link "Request Quote" [ref=e539] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request Quote
+            - listitem [ref=e540]:
+              - link "Documentation" [ref=e541] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+        - generic [ref=e542]:
+          - heading "Services" [level=3] [ref=e543]
+          - list [ref=e544]:
+            - listitem [ref=e545]:
+              - link "Warehousing & Storage" [ref=e546] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Warehousing & Storage
+            - listitem [ref=e547]:
+              - link "Transportation" [ref=e548] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Transportation
+            - listitem [ref=e549]:
+              - link "Manufacturing" [ref=e550] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Manufacturing
+            - listitem [ref=e551]:
+              - link "Supply Chain Management" [ref=e552] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Supply Chain Management
+        - generic [ref=e553]:
+          - heading "Get Started" [level=3] [ref=e554]
+          - list [ref=e555]:
+            - listitem [ref=e556]:
+              - link "Request a Quote" [ref=e557] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request a Quote
+            - listitem [ref=e558]:
+              - link "Find a Facility" [ref=e559] [cursor=pointer]:
+                - /url: /facilities
+                - text: Find a Facility
+            - listitem [ref=e560]:
+              - link "Documentation" [ref=e561] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+          - link "Get Started" [ref=e563] [cursor=pointer]:
+            - /url: /rfq
+      - generic [ref=e565]:
+        - paragraph [ref=e566]: © 2026 AstroFlow. All rights reserved.
+        - generic [ref=e567]:
+          - link "Privacy Policy" [ref=e568] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e569]: •
+          - link "Terms of Service" [ref=e570] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e571]: •
+          - link "Cookie Policy" [ref=e572] [cursor=pointer]:
+            - /url: /
+  - generic [ref=e575]:
+    - button "Menu" [ref=e576]:
+      - img [ref=e578]
+      - generic: Menu
+    - button "Inspect" [ref=e582]:
+      - img [ref=e584]
+      - generic: Inspect
+    - button "Audit" [ref=e586]:
+      - img [ref=e588]
+      - generic: Audit
+    - button "Settings" [ref=e591]:
+      - img [ref=e593]
+      - generic: Settings

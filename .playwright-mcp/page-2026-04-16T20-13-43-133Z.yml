@@ -1,0 +1,278 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "AstroFlow" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - generic [ref=e11]: AstroFlow
+      - generic [ref=e12]:
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - link "Capabilities" [ref=e14] [cursor=pointer]:
+          - /url: /capabilities
+        - link "Use Cases" [ref=e15] [cursor=pointer]:
+          - /url: /use-cases
+        - link "Facilities" [ref=e16] [cursor=pointer]:
+          - /url: /facilities
+        - link "Track Package" [ref=e17] [cursor=pointer]:
+          - /url: /tracking
+        - link "Request Quote" [ref=e18] [cursor=pointer]:
+          - /url: /rfq
+        - link "Documentation" [ref=e19] [cursor=pointer]:
+          - /url: /documentation
+      - generic [ref=e20]:
+        - link "Request Quote" [ref=e21] [cursor=pointer]:
+          - /url: /rfq
+        - button "Logout" [ref=e23] [cursor=pointer]:
+          - img [ref=e24]
+          - text: Logout
+  - main [ref=e27]:
+    - generic [ref=e28]:
+      - img "Industry solutions and use cases" [ref=e30]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - img [ref=e35]
+          - text: Industry Solutions
+        - heading "Industry Use Cases" [level=1] [ref=e37]
+        - paragraph [ref=e38]: Real-world solutions delivering measurable results across diverse industries. See how we've transformed operations.
+    - generic [ref=e42]:
+      - tablist [ref=e43]:
+        - tab "E-Commerce & Retail" [selected] [ref=e44]:
+          - img [ref=e45]
+          - text: E-Commerce & Retail
+        - tab "Healthcare & Pharmaceuticals" [ref=e49]:
+          - img [ref=e50]
+          - text: Healthcare & Pharmaceuticals
+        - tab "Automotive & Manufacturing" [ref=e52]:
+          - img [ref=e53]
+          - text: Automotive & Manufacturing
+        - tab "Technology & Electronics" [ref=e57]:
+          - img [ref=e58]
+          - text: Technology & Electronics
+        - tab "Consumer Goods" [ref=e60]:
+          - img [ref=e61]
+          - text: Consumer Goods
+        - tab "Food & Beverage" [ref=e65]:
+          - img [ref=e66]
+          - text: Food & Beverage
+      - tabpanel [ref=e71]:
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - img "E-Commerce & Retail" [ref=e75]
+            - img [ref=e79]
+            - heading "E-Commerce & Retail" [level=2] [ref=e84]
+          - generic [ref=e86]:
+            - generic [ref=e88]:
+              - img [ref=e89]
+              - generic [ref=e91]:
+                - heading "Challenge" [level=3] [ref=e92]
+                - paragraph [ref=e93]: Managing high-volume orders during peak seasons with tight delivery windows and customer expectations for fast, accurate fulfillment.
+            - generic [ref=e95]:
+              - img [ref=e96]
+              - generic [ref=e98]:
+                - heading "Solution" [level=3] [ref=e99]
+                - paragraph [ref=e100]: Scalable warehousing with automated order processing, same-day shipping capabilities, and integrated returns management.
+            - generic [ref=e101]:
+              - heading "Results" [level=3] [ref=e102]:
+                - img [ref=e103]
+                - text: Results
+              - generic [ref=e106]:
+                - generic [ref=e107]:
+                  - img [ref=e108]
+                  - generic [ref=e111]: 40% reduction in order processing time
+                - generic [ref=e112]:
+                  - img [ref=e113]
+                  - generic [ref=e116]: 99.5% order accuracy rate
+                - generic [ref=e117]:
+                  - img [ref=e118]
+                  - generic [ref=e121]: 2-day average delivery time
+                - generic [ref=e122]:
+                  - img [ref=e123]
+                  - generic [ref=e126]: 95% customer satisfaction score
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - heading "Proven Results" [level=2] [ref=e130]
+        - paragraph [ref=e131]: Our track record speaks for itself with measurable improvements across key performance indicators.
+      - generic [ref=e133]:
+        - generic [ref=e134]:
+          - img [ref=e136]
+          - generic [ref=e139]: 99.8%
+          - generic [ref=e140]: On-Time Delivery
+        - generic [ref=e141]:
+          - img [ref=e143]
+          - generic [ref=e146]: 45%
+          - generic [ref=e147]: Average Cost Savings
+        - generic [ref=e148]:
+          - img [ref=e150]
+          - generic [ref=e155]: 500+
+          - generic [ref=e156]: Satisfied Clients
+        - generic [ref=e157]:
+          - img [ref=e159]
+          - generic [ref=e163]: 50M+
+          - generic [ref=e164]: Units Shipped
+    - generic [ref=e166]:
+      - generic [ref=e167]:
+        - generic [ref=e168]: Client Success Stories
+        - heading "Trusted by Industry Leaders" [level=2] [ref=e169]
+        - paragraph [ref=e170]: See how we've helped companies across different industries transform their operations and achieve remarkable results.
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - generic [ref=e174]:
+            - img [ref=e175]
+            - img [ref=e177]
+            - img [ref=e179]
+            - img [ref=e181]
+            - img [ref=e183]
+          - paragraph [ref=e185]: "\"AstroFlow's automated warehousing solution transformed our e-commerce operations. We reduced order processing time by 40% and achieved 99.5% accuracy. Their same-day shipping capabilities helped us compete with industry giants.\""
+          - generic [ref=e186]:
+            - img "Sarah Mitchell" [ref=e188]
+            - generic [ref=e189]:
+              - generic [ref=e190]: Sarah Mitchell
+              - generic [ref=e191]: VP Operations, TechRetail
+        - generic [ref=e192]:
+          - generic [ref=e194]:
+            - img [ref=e195]
+            - img [ref=e197]
+            - img [ref=e199]
+            - img [ref=e201]
+            - img [ref=e203]
+          - paragraph [ref=e205]: "\"Their FDA-compliant cold chain logistics are exceptional. We've maintained 100% regulatory compliance with zero temperature excursions. The real-time monitoring and complete audit trails give us complete confidence.\""
+          - generic [ref=e206]:
+            - img "Dr. James Chen" [ref=e208]
+            - generic [ref=e209]:
+              - generic [ref=e210]: Dr. James Chen
+              - generic [ref=e211]: Director, PharmaLogistics
+        - generic [ref=e212]:
+          - generic [ref=e214]:
+            - img [ref=e215]
+            - img [ref=e217]
+            - img [ref=e219]
+            - img [ref=e221]
+            - img [ref=e223]
+          - paragraph [ref=e225]: "\"Just-in-time delivery with 99.8% on-time performance and zero production stoppages. Their strategic distribution centers and predictive inventory management cut our inventory costs by 50%.\""
+          - generic [ref=e226]:
+            - img "Robert Johnson" [ref=e228]
+            - generic [ref=e229]:
+              - generic [ref=e230]: Robert Johnson
+              - generic [ref=e231]: Operations Manager, AutoParts Co.
+    - generic [ref=e232]:
+      - img "Let's work together" [ref=e234]
+      - generic [ref=e237]:
+        - generic [ref=e238]: Get Started Today
+        - heading "Ready to Transform Your Operations?" [level=2] [ref=e239]
+        - paragraph [ref=e240]: Every industry has unique requirements. Let us create a customized solution for your business.
+        - generic [ref=e241]:
+          - link "Request a Quote" [ref=e242] [cursor=pointer]:
+            - /url: /rfq
+          - link "View Capabilities" [ref=e243] [cursor=pointer]:
+            - /url: /capabilities
+  - contentinfo [ref=e244]:
+    - generic [ref=e245]:
+      - generic [ref=e246]:
+        - generic [ref=e247]:
+          - link "AstroFlow" [ref=e248] [cursor=pointer]:
+            - /url: /
+            - img [ref=e250]
+            - generic [ref=e254]: AstroFlow
+          - paragraph [ref=e255]: Leading provider of optimized logistics and manufacturing solutions with state-of-the-art facilities and industry expertise.
+          - generic [ref=e256]:
+            - link "LinkedIn" [ref=e257] [cursor=pointer]:
+              - /url: https://linkedin.com/company/yourcompany
+              - img [ref=e258]
+            - link "Twitter" [ref=e262] [cursor=pointer]:
+              - /url: https://twitter.com/yourcompany
+              - img [ref=e263]
+            - link "Facebook" [ref=e265] [cursor=pointer]:
+              - /url: https://facebook.com/yourcompany
+              - img [ref=e266]
+        - generic [ref=e268]:
+          - heading "Quick Links" [level=3] [ref=e269]
+          - list [ref=e270]:
+            - listitem [ref=e271]:
+              - link "Home" [ref=e272] [cursor=pointer]:
+                - /url: /
+                - text: Home
+            - listitem [ref=e273]:
+              - link "Capabilities" [ref=e274] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Capabilities
+            - listitem [ref=e275]:
+              - link "Use Cases" [ref=e276] [cursor=pointer]:
+                - /url: /use-cases
+                - text: Use Cases
+            - listitem [ref=e277]:
+              - link "Facilities" [ref=e278] [cursor=pointer]:
+                - /url: /facilities
+                - text: Facilities
+            - listitem [ref=e279]:
+              - link "Track Package" [ref=e280] [cursor=pointer]:
+                - /url: /tracking
+                - text: Track Package
+            - listitem [ref=e281]:
+              - link "Request Quote" [ref=e282] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request Quote
+            - listitem [ref=e283]:
+              - link "Documentation" [ref=e284] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+        - generic [ref=e285]:
+          - heading "Services" [level=3] [ref=e286]
+          - list [ref=e287]:
+            - listitem [ref=e288]:
+              - link "Warehousing & Storage" [ref=e289] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Warehousing & Storage
+            - listitem [ref=e290]:
+              - link "Transportation" [ref=e291] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Transportation
+            - listitem [ref=e292]:
+              - link "Manufacturing" [ref=e293] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Manufacturing
+            - listitem [ref=e294]:
+              - link "Supply Chain Management" [ref=e295] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Supply Chain Management
+        - generic [ref=e296]:
+          - heading "Get Started" [level=3] [ref=e297]
+          - list [ref=e298]:
+            - listitem [ref=e299]:
+              - link "Request a Quote" [ref=e300] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request a Quote
+            - listitem [ref=e301]:
+              - link "Find a Facility" [ref=e302] [cursor=pointer]:
+                - /url: /facilities
+                - text: Find a Facility
+            - listitem [ref=e303]:
+              - link "Documentation" [ref=e304] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+          - link "Get Started" [ref=e306] [cursor=pointer]:
+            - /url: /rfq
+      - generic [ref=e308]:
+        - paragraph [ref=e309]: © 2026 AstroFlow. All rights reserved.
+        - generic [ref=e310]:
+          - link "Privacy Policy" [ref=e311] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e312]: •
+          - link "Terms of Service" [ref=e313] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e314]: •
+          - link "Cookie Policy" [ref=e315] [cursor=pointer]:
+            - /url: /
+  - generic [ref=e318]:
+    - button "Menu" [ref=e319]:
+      - img [ref=e321]
+      - generic: Menu
+    - button "Inspect" [ref=e325]:
+      - img [ref=e327]
+      - generic: Inspect
+    - button "Audit" [ref=e329]:
+      - img [ref=e331]
+      - generic: Audit
+    - button "Settings" [ref=e334]:
+      - img [ref=e336]
+      - generic: Settings

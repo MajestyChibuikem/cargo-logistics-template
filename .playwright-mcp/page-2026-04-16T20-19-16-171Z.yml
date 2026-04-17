@@ -1,0 +1,536 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "JAGO Cargo" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+        - generic [ref=e11]: JAGO Cargo
+      - generic [ref=e12]:
+        - link "Home" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - link "Capabilities" [ref=e14] [cursor=pointer]:
+          - /url: /capabilities
+        - link "Use Cases" [ref=e15] [cursor=pointer]:
+          - /url: /use-cases
+        - link "Facilities" [ref=e16] [cursor=pointer]:
+          - /url: /facilities
+        - link "Track Package" [ref=e17] [cursor=pointer]:
+          - /url: /tracking
+        - link "Request Quote" [ref=e18] [cursor=pointer]:
+          - /url: /rfq
+        - link "Documentation" [ref=e19] [cursor=pointer]:
+          - /url: /documentation
+      - generic [ref=e20]:
+        - link "Request Quote" [ref=e21] [cursor=pointer]:
+          - /url: /rfq
+        - link "Login" [ref=e23] [cursor=pointer]:
+          - /url: /login
+          - img [ref=e24]
+          - text: Login
+  - main [ref=e27]:
+    - generic [ref=e28]:
+      - img "Modern logistics warehouse with advanced automation" [ref=e30]
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - img [ref=e35]
+          - text: Industry Leading Logistics Solutions
+        - heading "Optimize Your Operations with JAGO Cargo" [level=1] [ref=e37]:
+          - text: Optimize Your Operations with
+          - generic [ref=e38]: JAGO Cargo
+        - paragraph [ref=e39]: Transform your supply chain with our integrated logistics and manufacturing solutions. From warehousing to delivery, we power your success with cutting-edge technology.
+        - generic [ref=e40]:
+          - link "Request a Quote" [ref=e41] [cursor=pointer]:
+            - /url: /rfq
+          - link "Explore Solutions" [ref=e42] [cursor=pointer]:
+            - /url: /capabilities
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - generic [ref=e45]: 500+
+            - generic [ref=e46]: Global Clients
+          - generic [ref=e47]:
+            - generic [ref=e48]: 50M+
+            - generic [ref=e49]: Units Shipped
+          - generic [ref=e50]:
+            - generic [ref=e51]: 99.9%
+            - generic [ref=e52]: On-Time
+          - generic [ref=e53]:
+            - generic [ref=e54]: 15+
+            - generic [ref=e55]: Facilities
+      - img [ref=e57]
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e62]: Our Services
+        - heading "Comprehensive Solutions" [level=2] [ref=e63]
+        - paragraph [ref=e64]: End-to-end logistics and manufacturing services powered by cutting-edge technology and tailored to your unique business needs.
+      - generic [ref=e66]:
+        - generic [ref=e68] [cursor=pointer]:
+          - img "Advanced Warehousing" [ref=e70]
+          - generic [ref=e72]:
+            - heading "Advanced Warehousing" [level=3] [ref=e73]
+            - paragraph [ref=e74]: Climate-controlled facilities with automated inventory systems and 24/7 security.
+        - generic [ref=e76] [cursor=pointer]:
+          - img "Fast Transportation" [ref=e78]
+          - generic [ref=e80]:
+            - heading "Fast Transportation" [level=3] [ref=e81]
+            - paragraph [ref=e82]: Multi-modal logistics network ensuring rapid delivery across all destinations.
+        - generic [ref=e84] [cursor=pointer]:
+          - img "Quality Manufacturing" [ref=e86]
+          - generic [ref=e88]:
+            - heading "Quality Manufacturing" [level=3] [ref=e89]
+            - paragraph [ref=e90]: ISO-certified production with precision engineering and quality control.
+        - generic [ref=e92] [cursor=pointer]:
+          - img "Real-Time Analytics" [ref=e94]
+          - generic [ref=e96]:
+            - heading "Real-Time Analytics" [level=3] [ref=e97]
+            - paragraph [ref=e98]: Complete supply chain visibility with advanced tracking and reporting.
+        - generic [ref=e100] [cursor=pointer]:
+          - img "Secure Operations" [ref=e102]
+          - generic [ref=e104]:
+            - heading "Secure Operations" [level=3] [ref=e105]
+            - paragraph [ref=e106]: Industry-leading security protocols protecting your valuable assets.
+        - generic [ref=e108] [cursor=pointer]:
+          - img "24/7 Support" [ref=e110]
+          - generic [ref=e112]:
+            - heading "24/7 Support" [level=3] [ref=e113]
+            - paragraph [ref=e114]: Dedicated teams available around the clock to ensure seamless operations.
+      - link "Explore All Capabilities" [ref=e116] [cursor=pointer]:
+        - /url: /capabilities
+        - text: Explore All Capabilities
+        - img [ref=e117]
+    - generic [ref=e120]:
+      - generic [ref=e121]:
+        - generic [ref=e122]: Our Infrastructure
+        - heading "World-Class Facilities" [level=2] [ref=e123]
+        - paragraph [ref=e124]: State-of-the-art infrastructure and cutting-edge technology designed for operational excellence across all our global locations.
+      - generic [ref=e125]:
+        - generic [ref=e130]:
+          - img "Automated warehouse with modern robotics" [ref=e131]
+          - generic [ref=e133]:
+            - heading "Automated Warehousing" [level=3] [ref=e134]
+            - paragraph [ref=e135]: Advanced robotics and AI-powered inventory management
+        - generic [ref=e139]:
+          - img "Fleet of modern delivery trucks" [ref=e140]
+          - generic [ref=e142]:
+            - heading "Fleet Management" [level=3] [ref=e143]
+            - paragraph [ref=e144]: Modern vehicles, optimized routes
+        - generic [ref=e148]:
+          - img "Manufacturing floor with precision equipment" [ref=e149]
+          - generic [ref=e151]:
+            - heading "Manufacturing" [level=3] [ref=e152]
+            - paragraph [ref=e153]: ISO-certified production lines
+        - generic [ref=e158]:
+          - img "Control center with real-time monitoring" [ref=e159]
+          - generic [ref=e161]:
+            - heading "Command Center" [level=3] [ref=e162]
+            - paragraph [ref=e163]: Real-time visibility and control across all operations
+        - generic [ref=e168]:
+          - img "Distribution center with sorting systems" [ref=e169]
+          - generic [ref=e171]:
+            - heading "Distribution Hub" [level=3] [ref=e172]
+            - paragraph [ref=e173]: High-speed sorting and cross-docking
+      - link "Tour Our Facilities" [ref=e175] [cursor=pointer]:
+        - /url: /facilities
+        - text: Tour Our Facilities
+        - img [ref=e176]
+    - generic [ref=e179]:
+      - generic [ref=e180]:
+        - generic [ref=e181]: Industries We Serve
+        - heading "Solutions for Every Industry" [level=2] [ref=e182]
+        - paragraph [ref=e183]: Tailored logistics and manufacturing solutions designed to meet the unique challenges of your industry.
+      - generic [ref=e184]:
+        - generic [ref=e185]:
+          - img [ref=e187]
+          - heading "Healthcare & Pharma" [level=3] [ref=e189]
+          - paragraph [ref=e190]: Temperature-controlled storage, compliance management, and specialized handling for medical supplies and pharmaceuticals.
+          - list [ref=e191]:
+            - listitem [ref=e192]:
+              - img [ref=e193]
+              - text: Cold chain logistics
+            - listitem [ref=e195]:
+              - img [ref=e196]
+              - text: Regulatory compliance
+            - listitem [ref=e198]:
+              - img [ref=e199]
+              - text: Sterile manufacturing
+        - generic [ref=e201]:
+          - img [ref=e203]
+          - heading "Technology & Electronics" [level=3] [ref=e205]
+          - paragraph [ref=e206]: Precision handling, ESD protection, and rapid fulfillment for high-value electronic components and devices.
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - img [ref=e209]
+              - text: ESD-safe facilities
+            - listitem [ref=e211]:
+              - img [ref=e212]
+              - text: Component assembly
+            - listitem [ref=e214]:
+              - img [ref=e215]
+              - text: Global distribution
+        - generic [ref=e217]:
+          - img [ref=e219]
+          - heading "E-commerce & Retail" [level=3] [ref=e221]
+          - paragraph [ref=e222]: Scalable fulfillment, same-day delivery options, and returns management for modern retail operations.
+          - list [ref=e223]:
+            - listitem [ref=e224]:
+              - img [ref=e225]
+              - text: Order fulfillment
+            - listitem [ref=e227]:
+              - img [ref=e228]
+              - text: Peak season support
+            - listitem [ref=e230]:
+              - img [ref=e231]
+              - text: Returns processing
+        - generic [ref=e233]:
+          - img [ref=e235]
+          - heading "Automotive" [level=3] [ref=e237]
+          - paragraph [ref=e238]: Just-in-time delivery, parts manufacturing, and supply chain optimization for automotive production lines.
+          - list [ref=e239]:
+            - listitem [ref=e240]:
+              - img [ref=e241]
+              - text: JIT manufacturing
+            - listitem [ref=e243]:
+              - img [ref=e244]
+              - text: Parts logistics
+            - listitem [ref=e246]:
+              - img [ref=e247]
+              - text: Quality assurance
+        - generic [ref=e249]:
+          - img [ref=e251]
+          - heading "Food & Beverage" [level=3] [ref=e253]
+          - paragraph [ref=e254]: Cold storage, food safety compliance, and specialized handling for perishable goods and beverages.
+          - list [ref=e255]:
+            - listitem [ref=e256]:
+              - img [ref=e257]
+              - text: Temperature control
+            - listitem [ref=e259]:
+              - img [ref=e260]
+              - text: HACCP compliance
+            - listitem [ref=e262]:
+              - img [ref=e263]
+              - text: Fast-track delivery
+        - generic [ref=e265]:
+          - img [ref=e267]
+          - heading "Aerospace & Defense" [level=3] [ref=e269]
+          - paragraph [ref=e270]: Precision manufacturing, secure logistics, and compliance management for aerospace and defense applications.
+          - list [ref=e271]:
+            - listitem [ref=e272]:
+              - img [ref=e273]
+              - text: Secure facilities
+            - listitem [ref=e275]:
+              - img [ref=e276]
+              - text: Precision components
+            - listitem [ref=e278]:
+              - img [ref=e279]
+              - text: ITAR compliance
+      - link "View Industry Solutions" [ref=e282] [cursor=pointer]:
+        - /url: /use-cases
+        - text: View Industry Solutions
+        - img [ref=e283]
+    - generic [ref=e289]:
+      - generic [ref=e290]:
+        - generic [ref=e291]: Technology & Innovation
+        - heading "Powered by Cutting-Edge Tech" [level=2] [ref=e292]
+        - paragraph [ref=e293]: Our technology stack combines AI, IoT, and advanced analytics to deliver intelligent logistics solutions that adapt and optimize in real-time.
+        - generic [ref=e294]:
+          - generic [ref=e295]:
+            - img [ref=e297]
+            - generic [ref=e299]:
+              - heading "AI-Powered Optimization" [level=3] [ref=e300]
+              - paragraph [ref=e301]: Machine learning algorithms continuously analyze data to optimize routes, predict demand, and reduce operational costs.
+          - generic [ref=e302]:
+            - img [ref=e304]
+            - generic [ref=e306]:
+              - heading "Real-Time Visibility" [level=3] [ref=e307]
+              - paragraph [ref=e308]: Track every shipment, monitor warehouse operations, and access live analytics through our comprehensive dashboard platform.
+          - generic [ref=e309]:
+            - img [ref=e311]
+            - generic [ref=e313]:
+              - heading "IoT Integration" [level=3] [ref=e314]
+              - paragraph [ref=e315]: Smart sensors and connected devices provide real-time monitoring of temperature, humidity, location, and condition tracking.
+          - generic [ref=e316]:
+            - img [ref=e318]
+            - generic [ref=e320]:
+              - heading "Enterprise Security" [level=3] [ref=e321]
+              - paragraph [ref=e322]: Bank-level encryption, multi-factor authentication, and compliance with industry standards ensure your data stays secure.
+        - link "Explore Our Technology" [ref=e324] [cursor=pointer]:
+          - /url: /documentation
+          - text: Explore Our Technology
+          - img [ref=e325]
+      - generic [ref=e327]:
+        - generic [ref=e328]:
+          - img "Advanced logistics technology dashboard" [ref=e329]
+          - generic [ref=e332]:
+            - img [ref=e334]
+            - heading "Smart Logistics Platform" [level=3] [ref=e336]
+            - paragraph [ref=e337]: Real-time analytics dashboard
+        - generic [ref=e341]: 99.9% Uptime
+        - generic [ref=e345]: Real-time Sync
+    - generic [ref=e347]:
+      - generic [ref=e348]:
+        - generic [ref=e349]: How We Work
+        - heading "Our Proven Process" [level=2] [ref=e350]
+        - paragraph [ref=e351]: A streamlined approach designed to deliver results from day one, with continuous optimization and support.
+      - generic [ref=e354]:
+        - generic [ref=e356]:
+          - generic [ref=e357]:
+            - img "Business planning and strategy" [ref=e358]
+            - generic [ref=e360]: "1"
+          - generic [ref=e361]:
+            - heading "Discovery & Planning" [level=3] [ref=e362]
+            - paragraph [ref=e363]: We analyze your current operations, identify pain points, and design a customized solution that aligns with your business goals.
+            - generic [ref=e364]:
+              - text: Learn more
+              - img [ref=e365]
+        - generic [ref=e368]:
+          - generic [ref=e369]:
+            - img "Team collaboration and implementation" [ref=e370]
+            - generic [ref=e372]: "2"
+          - generic [ref=e373]:
+            - heading "Implementation" [level=3] [ref=e374]
+            - paragraph [ref=e375]: Our expert team sets up your infrastructure, integrates systems, and ensures seamless onboarding with minimal disruption.
+            - generic [ref=e376]:
+              - text: Learn more
+              - img [ref=e377]
+        - generic [ref=e380]:
+          - generic [ref=e381]:
+            - img "Data analytics and optimization" [ref=e382]
+            - generic [ref=e384]: "3"
+          - generic [ref=e385]:
+            - heading "Optimization" [level=3] [ref=e386]
+            - paragraph [ref=e387]: Continuous monitoring and data-driven improvements ensure your operations become more efficient and cost-effective over time.
+            - generic [ref=e388]:
+              - text: Learn more
+              - img [ref=e389]
+        - generic [ref=e392]:
+          - generic [ref=e393]:
+            - img "Customer support and growth" [ref=e394]
+            - generic [ref=e396]: "4"
+          - generic [ref=e397]:
+            - heading "Support & Growth" [level=3] [ref=e398]
+            - paragraph [ref=e399]: Dedicated account management and 24/7 support help you scale operations and adapt to changing market demands.
+            - generic [ref=e400]:
+              - text: Learn more
+              - img [ref=e401]
+      - generic [ref=e403]:
+        - generic [ref=e404]:
+          - img [ref=e406]
+          - heading "Fast Deployment" [level=4] [ref=e408]
+          - paragraph [ref=e409]: Get up and running in weeks, not months
+        - generic [ref=e410]:
+          - img [ref=e412]
+          - heading "Proven Results" [level=4] [ref=e414]
+          - paragraph [ref=e415]: Measurable improvements from day one
+        - generic [ref=e416]:
+          - img [ref=e418]
+          - heading "24/7 Support" [level=4] [ref=e420]
+          - paragraph [ref=e421]: Always available when you need us
+    - generic [ref=e422]:
+      - img "Global logistics network" [ref=e424]
+      - generic [ref=e426]:
+        - generic [ref=e427]:
+          - generic [ref=e428]: Performance Metrics
+          - heading "Trusted by Industry Leaders" [level=2] [ref=e429]
+          - paragraph [ref=e430]: Delivering measurable results and operational excellence across every metric that matters to your business.
+        - generic [ref=e432]:
+          - generic [ref=e433]:
+            - generic: 500+
+            - generic [ref=e434]: Global Clients
+          - generic [ref=e435]:
+            - generic: 50M+
+            - generic [ref=e436]: Million Units Shipped
+          - generic [ref=e437]:
+            - generic: 99.9%
+            - generic [ref=e438]: On-Time Delivery
+          - generic [ref=e439]:
+            - generic: 15+
+            - generic [ref=e440]: Facilities Worldwide
+        - generic [ref=e441]:
+          - paragraph [ref=e442]: Trusted by Fortune 500 Companies
+          - generic [ref=e443]:
+            - generic [ref=e445]: CLIENT
+            - generic [ref=e447]: CLIENT
+            - generic [ref=e449]: CLIENT
+            - generic [ref=e451]: CLIENT
+    - generic [ref=e453]:
+      - generic [ref=e454]:
+        - generic [ref=e455]: Client Success Stories
+        - heading "Trusted by Industry Leaders" [level=2] [ref=e456]
+        - paragraph [ref=e457]: See how we've helped companies transform their supply chain operations and achieve remarkable results.
+      - generic [ref=e458]:
+        - generic [ref=e459]:
+          - generic [ref=e461]:
+            - img [ref=e462]
+            - img [ref=e464]
+            - img [ref=e466]
+            - img [ref=e468]
+            - img [ref=e470]
+          - paragraph [ref=e472]: "\"JAGO Cargo transformed our entire supply chain. Their automated warehousing solution reduced our fulfillment time by 40% and cut operational costs significantly. The real-time visibility they provide is game-changing.\""
+          - generic [ref=e473]:
+            - img "Sarah Mitchell" [ref=e475]
+            - generic [ref=e476]:
+              - generic [ref=e477]: Sarah Mitchell
+              - generic [ref=e478]: VP of Operations, TechCorp
+        - generic [ref=e479]:
+          - generic [ref=e481]:
+            - img [ref=e482]
+            - img [ref=e484]
+            - img [ref=e486]
+            - img [ref=e488]
+            - img [ref=e490]
+          - paragraph [ref=e492]: "\"The manufacturing capabilities at JAGO Cargo are exceptional. They've helped us scale production while maintaining the highest quality standards. Their ISO-certified processes give us complete confidence.\""
+          - generic [ref=e493]:
+            - img "Robert Johnson" [ref=e495]
+            - generic [ref=e496]:
+              - generic [ref=e497]: Robert Johnson
+              - generic [ref=e498]: CEO, Global Manufacturing Inc.
+        - generic [ref=e499]:
+          - generic [ref=e501]:
+            - img [ref=e502]
+            - img [ref=e504]
+            - img [ref=e506]
+            - img [ref=e508]
+            - img [ref=e510]
+          - paragraph [ref=e512]: "\"Outstanding logistics partner. Their fleet management and route optimization have improved our delivery times and reduced fuel costs. The command center gives us complete visibility into every shipment.\""
+          - generic [ref=e513]:
+            - img "Emily Williams" [ref=e515]
+            - generic [ref=e516]:
+              - generic [ref=e517]: Emily Williams
+              - generic [ref=e518]: Supply Chain Director, RetailMax
+    - generic [ref=e519]:
+      - img "Modern warehouse operations" [ref=e521]
+      - generic [ref=e524]:
+        - generic [ref=e525]: Get Started Today
+        - heading "Ready to Optimize with JAGO Cargo?" [level=2] [ref=e526]
+        - paragraph [ref=e527]: Partner with industry leaders. Get a customized logistics solution designed for your success and accelerate your growth.
+        - generic [ref=e528]:
+          - link "Request a Quote" [ref=e529] [cursor=pointer]:
+            - /url: /rfq
+            - text: Request a Quote
+            - img [ref=e530]
+          - link "Tour Our Facilities" [ref=e532] [cursor=pointer]:
+            - /url: /facilities
+            - text: Tour Our Facilities
+            - img [ref=e533]
+        - generic [ref=e535]:
+          - generic [ref=e536]:
+            - generic [ref=e537]: 25+
+            - generic [ref=e538]: Years Experience
+          - generic [ref=e539]:
+            - generic [ref=e540]: ISO 9001
+            - generic [ref=e541]: Certified
+          - generic [ref=e542]:
+            - generic [ref=e543]: 24/7
+            - generic [ref=e544]: Support
+          - generic [ref=e545]:
+            - generic [ref=e546]: Global
+            - generic [ref=e547]: Network
+  - contentinfo [ref=e548]:
+    - generic [ref=e549]:
+      - generic [ref=e550]:
+        - generic [ref=e551]:
+          - link "JAGO Cargo" [ref=e552] [cursor=pointer]:
+            - /url: /
+            - img [ref=e554]
+            - generic [ref=e558]: JAGO Cargo
+          - paragraph [ref=e559]: Leading provider of optimized logistics and manufacturing solutions with state-of-the-art facilities and industry expertise.
+          - generic [ref=e560]:
+            - link "LinkedIn" [ref=e561] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e562]
+            - link "Twitter" [ref=e566] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e567]
+            - link "Facebook" [ref=e569] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e570]
+        - generic [ref=e572]:
+          - heading "Quick Links" [level=3] [ref=e573]
+          - list [ref=e574]:
+            - listitem [ref=e575]:
+              - link "Home" [ref=e576] [cursor=pointer]:
+                - /url: /
+                - text: Home
+            - listitem [ref=e577]:
+              - link "Capabilities" [ref=e578] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Capabilities
+            - listitem [ref=e579]:
+              - link "Use Cases" [ref=e580] [cursor=pointer]:
+                - /url: /use-cases
+                - text: Use Cases
+            - listitem [ref=e581]:
+              - link "Facilities" [ref=e582] [cursor=pointer]:
+                - /url: /facilities
+                - text: Facilities
+            - listitem [ref=e583]:
+              - link "Track Package" [ref=e584] [cursor=pointer]:
+                - /url: /tracking
+                - text: Track Package
+            - listitem [ref=e585]:
+              - link "Request Quote" [ref=e586] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request Quote
+            - listitem [ref=e587]:
+              - link "Documentation" [ref=e588] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+        - generic [ref=e589]:
+          - heading "Services" [level=3] [ref=e590]
+          - list [ref=e591]:
+            - listitem [ref=e592]:
+              - link "Warehousing & Storage" [ref=e593] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Warehousing & Storage
+            - listitem [ref=e594]:
+              - link "Transportation" [ref=e595] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Transportation
+            - listitem [ref=e596]:
+              - link "Manufacturing" [ref=e597] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Manufacturing
+            - listitem [ref=e598]:
+              - link "Supply Chain Management" [ref=e599] [cursor=pointer]:
+                - /url: /capabilities
+                - text: Supply Chain Management
+        - generic [ref=e600]:
+          - heading "Get Started" [level=3] [ref=e601]
+          - list [ref=e602]:
+            - listitem [ref=e603]:
+              - link "Request a Quote" [ref=e604] [cursor=pointer]:
+                - /url: /rfq
+                - text: Request a Quote
+            - listitem [ref=e605]:
+              - link "Find a Facility" [ref=e606] [cursor=pointer]:
+                - /url: /facilities
+                - text: Find a Facility
+            - listitem [ref=e607]:
+              - link "Documentation" [ref=e608] [cursor=pointer]:
+                - /url: /documentation
+                - text: Documentation
+          - link "Get Started" [ref=e610] [cursor=pointer]:
+            - /url: /rfq
+      - generic [ref=e612]:
+        - paragraph [ref=e613]: © 2026 JAGO Cargo. All rights reserved.
+        - generic [ref=e614]:
+          - link "Privacy Policy" [ref=e615] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e616]: •
+          - link "Terms of Service" [ref=e617] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e618]: •
+          - link "Cookie Policy" [ref=e619] [cursor=pointer]:
+            - /url: /
+  - generic [ref=e622]:
+    - button "Menu" [ref=e623]:
+      - img [ref=e625]
+      - generic: Menu
+    - button "Inspect" [ref=e629]:
+      - img [ref=e631]
+      - generic: Inspect
+    - button "Audit" [ref=e633]:
+      - img [ref=e635]
+      - generic: Audit
+    - button "Settings" [ref=e638]:
+      - img [ref=e640]
+      - generic: Settings
