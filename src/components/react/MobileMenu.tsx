@@ -1,20 +1,9 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import * as Dialog from '@radix-ui/react-dialog';
-import { Menu, X, LogIn, LogOut } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { NAVIGATION } from '../../config/site';
 
 export default function MobileMenu() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
-
-  useEffect(() => {
-    setIsLoggedIn(localStorage.getItem('jago_auth') === 'true');
-  }, []);
-
-  const handleLogout = () => {
-    localStorage.removeItem('jago_auth');
-    window.location.href = '/login';
-  };
-
   return (
     <Dialog.Root>
       <Dialog.Trigger asChild>
@@ -41,31 +30,6 @@ export default function MobileMenu() {
                 </a>
               </Dialog.Close>
             ))}
-
-            {/* Auth link */}
-            <div className="border-t border-slate-100 pt-2 mt-2">
-              {isLoggedIn ? (
-                <Dialog.Close asChild>
-                  <button
-                    onClick={handleLogout}
-                    className="flex items-center gap-2 w-full px-4 py-3 text-base font-medium text-red-600 hover:bg-red-50 rounded-lg transition-all"
-                  >
-                    <LogOut className="w-4 h-4" />
-                    Logout
-                  </button>
-                </Dialog.Close>
-              ) : (
-                <Dialog.Close asChild>
-                  <a
-                    href="/login"
-                    className="flex items-center gap-2 px-4 py-3 text-base font-medium text-slate-700 hover:text-[#f97316] hover:bg-orange-50 rounded-lg transition-all"
-                  >
-                    <LogIn className="w-4 h-4" />
-                    Login
-                  </a>
-                </Dialog.Close>
-              )}
-            </div>
 
             <div className="pt-2">
               <Dialog.Close asChild>

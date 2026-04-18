@@ -3,12 +3,6 @@ import BaseLayout from '@layouts/BaseLayout.astro';
 import PackageTracker from '@components/react/PackageTracker';
 ---
 
-<script is:inline>
-  if (localStorage.getItem('jago_auth') !== 'true') {
-    window.location.replace('/login');
-  }
-</script>
-
 <BaseLayout title="Track Package - AstroFlow" description="Track your AstroFlow shipment in real time.">
   <!-- Page header -->
   <section class="bg-[#1a2744] py-14">

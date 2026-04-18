@@ -2,7 +2,6 @@
 import { NAVIGATION } from '@config/site';
 import { Package } from 'lucide-react';
 import MobileMenu from '@components/react/MobileMenu';
-import HeaderAuthControls from '@components/react/HeaderAuthControls';
 
 const { currentPathname } = Astro.props;
 const isActiveLink = (href: string) : boolean => { return href === currentPathname; }
@@ -46,7 +45,6 @@ const isActiveLink = (href: string) : boolean => { return href === currentPathna
       >
         Request Quote
       </a>
-      <HeaderAuthControls client:load />
     </div>
 
     <!-- Mobile Menu Button -->
