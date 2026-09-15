@@ -141,7 +141,7 @@ export default function PackageTracker() {
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Enter tracking number (e.g. CARGO-001)"
+            placeholder="Enter tracking number (e.g. TRK-DROP-1336)"
             className="w-full pl-10 pr-4 py-3 border-2 border-slate-200 rounded-lg focus:ring-2 focus:ring-orange-400 focus:border-orange-400 outline-none transition text-sm"
           />
         </div>
@@ -158,7 +158,7 @@ export default function PackageTracker() {
         <div className="text-center text-slate-400 text-sm py-12">
           <Package className="w-12 h-12 mx-auto mb-3 text-slate-300" />
           <p>Enter a tracking number above to get started.</p>
-          <p className="mt-1 text-xs">Sample numbers: CARGO-001, CARGO-002, CARGO-003, CARGO-004</p>
+          <p className="mt-1 text-xs">Sample number: TRK-DROP-1336</p>
         </div>
       )}
 
